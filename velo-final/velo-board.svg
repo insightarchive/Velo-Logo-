@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1264 1264" width="1264" height="1264"><defs><linearGradient id="gMain" gradientUnits="userSpaceOnUse" x1="294" y1="45" x2="140" y2="295"><stop offset="0" stop-color="#7a5cff"/><stop offset="1" stop-color="#4a28d4"/></linearGradient>
+<linearGradient id="gLight" gradientUnits="userSpaceOnUse" x1="266" y1="153" x2="129" y2="295"><stop offset="0" stop-color="#a98cff"/><stop offset="1" stop-color="#8566f2"/></linearGradient>
+<linearGradient id="gWing" gradientUnits="userSpaceOnUse" x1="44" y1="98" x2="154" y2="165"><stop offset="0" stop-color="#4519ab"/><stop offset="1" stop-color="#3f1a9e"/></linearGradient>
+<filter id="sh" x="-30%" y="-30%" width="160%" height="170%"><feDropShadow dx="0" dy="14" stdDeviation="14" flood-color="#000" flood-opacity=".55"/></filter>
+<linearGradient id="wp" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#14141d"/><stop offset="1" stop-color="#0b0b12"/></linearGradient></defs>
+<rect width="1264" height="1264" fill="#0e0e16"/>
+<path d="M632 0V1264M0 632H1264" stroke="#26262f" stroke-width="2"/>
+<text x="30" y="45" font-family="'DejaVu Sans',Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="3.5" fill="#8a8a96">APP ICON</text><text x="663" y="45" font-family="'DejaVu Sans',Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="3.5" fill="#8a8a96">WINDOWS TASKBAR</text><text x="30" y="678" font-family="'DejaVu Sans',Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="3.5" fill="#8a8a96">DESKTOP SHORTCUT</text><text x="663" y="678" font-family="'DejaVu Sans',Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="3.5" fill="#8a8a96">FULL WORDMARK</text>
+<g transform="translate(146 160)" filter="url(#sh)"><rect x="0.5" y="0.5" width="339" height="339" rx="76" fill="#15151c" stroke="#242430"/><polygon points="44,98 154,165 98,222" fill="url(#gWing)"/>
+<polygon points="98,222 154,165 129,295" fill="#2a1380"/>
+<polygon points="294,45 162,133 129,295 196,182 266,153" fill="url(#gMain)"/>
+<polygon points="266,153 196,182 129,295" fill="url(#gLight)"/></g>
+<rect x="633" y="285" width="631" height="114" fill="#17171d"/><path d="M633 285H1264" stroke="#2a2a34" stroke-width="2"/>
+<g transform="translate(688 318)"><rect width="22" height="22" rx="2" fill="#2aa1ff"/><rect x="26" width="22" height="22" rx="2" fill="#2aa1ff"/><rect y="26" width="22" height="22" rx="2" fill="#2aa1ff"/><rect x="26" y="26" width="22" height="22" rx="2" fill="#2aa1ff"/></g>
+<g transform="translate(785 318)" fill="none" stroke="#c9c9d1" stroke-width="5" stroke-linecap="round"><circle cx="20" cy="20" r="17"/><path d="M33 33L43 43"/></g>
+<g transform="translate(878 321)" fill="none" stroke="#c9c9d1" stroke-width="5"><rect x="8" y="2" width="38" height="38" rx="3"/><rect x="0" y="7" width="8" height="28" fill="#555" stroke="none"/></g>
+<g transform="translate(970 312) scale(.215) translate(-44 -45)"><polygon points="44,98 154,165 98,222" fill="url(#gWing)"/>
+<polygon points="98,222 154,165 129,295" fill="#2a1380"/>
+<polygon points="294,45 162,133 129,295 196,182 266,153" fill="url(#gMain)"/>
+<polygon points="266,153 196,182 129,295" fill="url(#gLight)"/></g>
+<rect x="982" y="384" width="30" height="6" rx="3" fill="#9a9aa4"/>
+<g transform="translate(1066 321)"><path d="M0 6Q0 0 6 0H18L24 6H44Q50 6 50 12V38Q50 44 44 44H6Q0 44 0 38Z" fill="#9a9aa4"/><rect y="12" width="50" height="32" rx="6" fill="#b4b4bd"/></g>
+<g transform="translate(1186 342)" fill="none" stroke="#a0a0a9" stroke-width="9"><circle r="14"/><circle r="5" fill="#a0a0a9" stroke="none"/><path d="M0 -26V-18M0 18V26M-26 0H-18M18 0H26M-18 -18L-12 -12M12 12L18 18M-18 18L-12 12M12 -12L18 -18" stroke-linecap="round" stroke-width="7"/></g>
+<rect x="0" y="633" width="632" height="631" fill="url(#wp)"/>
+<path d="M0 920L380 1105L632 960V1264H0Z" fill="#12121b"/><path d="M0 920L380 1105L632 800" fill="none" stroke="#1a1a24" stroke-width="2"/>
+<g transform="translate(249 821) scale(.4059)" filter="url(#sh)"><rect x="0.5" y="0.5" width="339" height="339" rx="76" fill="#15151c" stroke="#242430"/><polygon points="44,98 154,165 98,222" fill="url(#gWing)"/>
+<polygon points="98,222 154,165 129,295" fill="#2a1380"/>
+<polygon points="294,45 162,133 129,295 196,182 266,153" fill="url(#gMain)"/>
+<polygon points="266,153 196,182 129,295" fill="url(#gLight)"/></g>
+<rect x="255" y="929" width="26" height="26" rx="3" fill="#fff"/><path d="M262 947L272 937M265 937H272V944" fill="none" stroke="#1976d2" stroke-width="4"/>
+<text x="317" y="998" text-anchor="middle" font-family="'DejaVu Sans',Arial,sans-serif" font-size="23" fill="#fff">VELO Power Suite</text>
+<g transform="translate(639 0)"></g>
+<g transform="translate(678 855) scale(1)"><g transform="translate(-13.76 -12.30) scale(.54)"><polygon points="44,98 154,165 98,222" fill="url(#gWing)"/>
+<polygon points="98,222 154,165 129,295" fill="#2a1380"/>
+<polygon points="294,45 162,133 129,295 196,182 266,153" fill="url(#gMain)"/>
+<polygon points="266,153 196,182 129,295" fill="url(#gLight)"/></g>
+<g transform="translate(170 38) scale(.74)"><g fill="#fff"><path d="M0 0H24L57 64L90 0H114L70 84H44Z"/><path transform="translate(132 0)" d="M0 0H92V17H21V34H80V51H21V67H92V84H0Z"/><path transform="translate(242 0)" d="M0 0H21V67H84V84H0Z"/><path transform="translate(344 0)" fill-rule="evenodd" d="M42 0H82A42 42 0 0 1 124 42V42A42 42 0 0 1 82 84H42A42 42 0 0 1 0 42V42A42 42 0 0 1 42 0ZM46 17H78A25 25 0 0 1 103 42V42A25 25 0 0 1 78 67H46A25 25 0 0 1 21 42V42A25 25 0 0 1 46 17Z"/></g></g>
+<text x="172" y="143" font-family="Michroma,Syncopate,'DejaVu Sans',Arial,sans-serif" font-size="20" font-weight="700" fill="#8a8a96" textLength="344" lengthAdjust="spacing">POWER SUITE</text></g>
+</svg>

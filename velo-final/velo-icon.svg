@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 340" width="512" height="512"><defs><linearGradient id="gMain" gradientUnits="userSpaceOnUse" x1="294" y1="45" x2="140" y2="295"><stop offset="0" stop-color="#7a5cff"/><stop offset="1" stop-color="#4a28d4"/></linearGradient>
+<linearGradient id="gLight" gradientUnits="userSpaceOnUse" x1="266" y1="153" x2="129" y2="295"><stop offset="0" stop-color="#a98cff"/><stop offset="1" stop-color="#8566f2"/></linearGradient>
+<linearGradient id="gWing" gradientUnits="userSpaceOnUse" x1="44" y1="98" x2="154" y2="165"><stop offset="0" stop-color="#4519ab"/><stop offset="1" stop-color="#3f1a9e"/></linearGradient></defs><rect x="0.5" y="0.5" width="339" height="339" rx="76" fill="#15151c" stroke="#242430"/><polygon points="44,98 154,165 98,222" fill="url(#gWing)"/>
+<polygon points="98,222 154,165 129,295" fill="#2a1380"/>
+<polygon points="294,45 162,133 129,295 196,182 266,153" fill="url(#gMain)"/>
+<polygon points="266,153 196,182 129,295" fill="url(#gLight)"/></svg>

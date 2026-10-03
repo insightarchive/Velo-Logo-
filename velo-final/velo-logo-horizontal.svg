@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 160" width="1080" height="320"><defs><linearGradient id="gMain" gradientUnits="userSpaceOnUse" x1="294" y1="45" x2="140" y2="295"><stop offset="0" stop-color="#7a5cff"/><stop offset="1" stop-color="#4a28d4"/></linearGradient>
+<linearGradient id="gLight" gradientUnits="userSpaceOnUse" x1="266" y1="153" x2="129" y2="295"><stop offset="0" stop-color="#a98cff"/><stop offset="1" stop-color="#8566f2"/></linearGradient>
+<linearGradient id="gWing" gradientUnits="userSpaceOnUse" x1="44" y1="98" x2="154" y2="165"><stop offset="0" stop-color="#4519ab"/><stop offset="1" stop-color="#3f1a9e"/></linearGradient></defs><g transform="translate(-13.76 -12.30) scale(.54)"><polygon points="44,98 154,165 98,222" fill="url(#gWing)"/>
+<polygon points="98,222 154,165 129,295" fill="#2a1380"/>
+<polygon points="294,45 162,133 129,295 196,182 266,153" fill="url(#gMain)"/>
+<polygon points="266,153 196,182 129,295" fill="url(#gLight)"/></g>
+<g transform="translate(170 38) scale(.74)"><g fill="#fff"><path d="M0 0H24L57 64L90 0H114L70 84H44Z"/><path transform="translate(132 0)" d="M0 0H92V17H21V34H80V51H21V67H92V84H0Z"/><path transform="translate(242 0)" d="M0 0H21V67H84V84H0Z"/><path transform="translate(344 0)" fill-rule="evenodd" d="M42 0H82A42 42 0 0 1 124 42V42A42 42 0 0 1 82 84H42A42 42 0 0 1 0 42V42A42 42 0 0 1 42 0ZM46 17H78A25 25 0 0 1 103 42V42A25 25 0 0 1 78 67H46A25 25 0 0 1 21 42V42A25 25 0 0 1 46 17Z"/></g></g>
+<text x="172" y="143" font-family="Michroma,Syncopate,'DejaVu Sans',Arial,sans-serif" font-size="20" font-weight="700" fill="#8a8a96" textLength="344" lengthAdjust="spacing">POWER SUITE</text></svg>
