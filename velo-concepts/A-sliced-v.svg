@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3b6bf5"/><stop offset="1" stop-color="#5b3df0"/></linearGradient></defs>
+<mask id="m" maskUnits="userSpaceOnUse" x="0" y="0" width="512" height="512">
+  <rect width="512" height="512" fill="#fff"/>
+  <g fill="#000"><rect x="0" y="176" width="256" height="14"/><rect x="0" y="222" width="236" height="14"/><rect x="0" y="268" width="216" height="14"/></g>
+</mask>
+<rect width="512" height="512" rx="116" fill="url(#bg)"/>
+<g transform="translate(55 0) skewX(-12)">
+  <polygon mask="url(#m)" fill="#fff" points="96,110 186,110 256,300 326,110 416,110 300,400 212,400"/>
+</g>
+<g stroke="#ffc83d" stroke-width="12" stroke-linecap="round">
+  <line x1="62" y1="318" x2="150" y2="318"/><line x1="86" y1="352" x2="152" y2="352" opacity=".7"/><line x1="112" y1="386" x2="158" y2="386" opacity=".4"/>
+</g>
+</svg>

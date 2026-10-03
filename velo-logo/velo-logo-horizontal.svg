@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 256" width="900" height="256"><defs>
+<linearGradient id="gl" gradientUnits="userSpaceOnUse" x1="110" y1="140" x2="256" y2="372"><stop offset="0" stop-color="#22d3ee"/><stop offset="1" stop-color="#7c3aed"/></linearGradient>
+<linearGradient id="gr" gradientUnits="userSpaceOnUse" x1="256" y1="372" x2="440" y2="108"><stop offset="0" stop-color="#7c3aed"/><stop offset="1" stop-color="#f43f9a"/></linearGradient>
+<radialGradient id="glow" cx=".3" cy=".2" r=".9"><stop offset="0" stop-color="#1e2a5a"/><stop offset="1" stop-color="#0b1020"/></radialGradient>
+</defs>
+<g transform="scale(.5)"><rect width="512" height="512" rx="120" fill="url(#glow)"/><path d="M120 140C160 140 195 180 218 262C230 305 243 340 256 372" fill="none" stroke="url(#gl)" stroke-width="54" stroke-linecap="round"/>
+<path d="M256 372C274 335 296 282 324 222C354 156 392 118 440 108" fill="none" stroke="url(#gr)" stroke-width="54" stroke-linecap="round"/>
+<polygon points="272,128 222,204 254,204 238,268 296,180 264,180 284,128" fill="#ffd23f" stroke="#ffd23f" stroke-width="6" stroke-linejoin="round"/>
+<g stroke="#22d3ee" stroke-width="12" stroke-linecap="round"><line x1="60" y1="300" x2="130" y2="300" opacity=".75"/><line x1="84" y1="336" x2="146" y2="336" opacity=".5"/><line x1="112" y1="372" x2="162" y2="372" opacity=".3"/></g></g>
+<g font-family="'DejaVu Sans','Segoe UI',Arial,sans-serif" font-style="italic" font-weight="900">
+<text x="290" y="150" font-size="110" letter-spacing="4" fill="#fff">VELO</text>
+<text x="294" y="200" font-size="36" font-weight="600" font-style="normal" letter-spacing="14" fill="#8ea0d0">POWER SUITE</text></g>
+<g stroke="#22d3ee" stroke-width="7" stroke-linecap="round"><line x1="262" y1="84" x2="284" y2="84"/><line x1="256" y1="108" x2="284" y2="108" opacity=".7"/><line x1="250" y1="132" x2="284" y2="132" opacity=".45"/></g>
+</svg>
